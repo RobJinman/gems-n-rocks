@@ -1,0 +1,15 @@
+enemy data/images/enemy.bmp 128 256 32 32
+13
+data/animations/enemy_run_u.anim
+data/animations/enemy_run_l.anim
+data/animations/enemy_run_d.anim
+data/animations/enemy_run_r.anim
+data/animations/enemy_explode.anim
+data/animations/enemy_spin_ur.anim
+data/animations/enemy_spin_rd.anim
+data/animations/enemy_spin_dl.anim
+data/animations/enemy_spin_lu.anim
+data/animations/enemy_spin_ul.anim
+data/animations/enemy_spin_ld.anim
+data/animations/enemy_spin_dr.anim
+data/animations/enemy_spin_ru.anim

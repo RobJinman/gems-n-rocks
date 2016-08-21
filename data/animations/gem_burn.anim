@@ -1,0 +1,9 @@
+burn
+4 25 1
+0 0 0 64 32 32
+0 0 32 64 32 32
+0 0 64 64 32 32
+0 0 96 64 32 32
+
+nFrames, frameRate, vanishes at end (non-zero = true)
+change in x, change in y, x offset in bitmap, y offset, height of image, width

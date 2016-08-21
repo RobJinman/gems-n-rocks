@@ -1,0 +1,9 @@
+pistol_right
+3 12 0
+0 0 32 160 32 32
+0 0 32 160 32 32
+0 0 0 160 32 32
+data/sounds/pistolShot.wav
+
+nFrames, frameRate, vanishes at end (non-zero = true)
+change in x, change in y, x offset in bitmap, y offset, height of image, width

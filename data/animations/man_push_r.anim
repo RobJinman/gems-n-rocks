@@ -1,0 +1,9 @@
+push_right
+4 25 0
+8 0 160 0 32 32
+8 0 128 0 32 32
+8 0 192 0 32 32
+8 0 128 0 32 32
+
+nFrames, frameRate, vanishes at end (non-zero = true)
+change in x, change in y, x offset in bitmap, y offset, height of image, width

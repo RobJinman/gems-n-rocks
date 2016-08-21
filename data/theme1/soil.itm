@@ -1,0 +1,4 @@
+soil data/images/soil1.bmp 128 64 32 32
+2
+data/animations/soil_puff.anim
+data/animations/soil_burn.anim

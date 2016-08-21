@@ -1,0 +1,6 @@
+squareRock data/images/square_rock1.bmp 512 128 64 64
+4
+data/animations/fall64.anim
+data/animations/fall_l64.anim
+data/animations/fall_r64.anim
+data/animations/rock_burn64.anim

@@ -1,0 +1,3 @@
+wall data/images/wall1.bmp 128 64 32 32
+1
+data/animations/wall_burn.anim

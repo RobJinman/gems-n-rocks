@@ -1,0 +1,10 @@
+roll_left
+4 25 0
+-8 0 192 0 32 32
+-8 0 128 0 32 32
+-8 0 64 0 32 32
+-8 0 0 0 32 32
+data/sounds/roll.wav
+
+nFrames, frameRate, vanishes at end (non-zero = true)
+change in x, change in y, x offset in bitmap, y offset, height of image, width

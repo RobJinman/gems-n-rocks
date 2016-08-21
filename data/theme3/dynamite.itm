@@ -1,0 +1,3 @@
+dynamite data/images/dynamite.bmp 32 32 32 32
+1
+data/animations/dynamite_collect.anim

@@ -1,0 +1,8 @@
+collect
+2 25 1
+0 0 0 0 32 32
+0 0 0 0 32 32
+data/sounds/item_collect.wav
+
+nFrames, frameRate, vanishes at end (non-zero = true)
+change in x, change in y, x offset in bitmap, y offset, height of image, width

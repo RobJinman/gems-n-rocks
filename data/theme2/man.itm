@@ -1,0 +1,25 @@
+man data/images/man.bmp 256 256 32 32
+23
+data/animations/man_dig_u.anim
+data/animations/man_dig_l.anim
+data/animations/man_dig_d.anim
+data/animations/man_dig_r.anim
+data/animations/man_run_u.anim
+data/animations/man_run_l.anim
+data/animations/man_run_d.anim
+data/animations/man_run_r.anim
+data/animations/man_push_l.anim
+data/animations/man_push_r.anim
+data/animations/man_explode.anim
+data/animations/man_whip_u.anim
+data/animations/man_whip_l.anim
+data/animations/man_whip_d.anim
+data/animations/man_whip_r.anim
+data/animations/man_pistol_u.anim
+data/animations/man_pistol_l.anim
+data/animations/man_pistol_d.anim
+data/animations/man_pistol_r.anim
+data/animations/man_lay_item_u.anim
+data/animations/man_lay_item_l.anim
+data/animations/man_lay_item_r.anim
+data/animations/man_lay_item_d.anim

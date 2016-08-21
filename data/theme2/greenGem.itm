@@ -1,0 +1,7 @@
+greenGem data/images/green_gem.bmp 256 128 32 32
+5
+data/animations/gem_collect.anim
+data/animations/fall.anim
+data/animations/fall_l.anim
+data/animations/fall_r.anim
+data/animations/gem_burn.anim

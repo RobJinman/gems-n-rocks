@@ -1,0 +1,4 @@
+dynamite_lit data/images/dynamite_lit.bmp 128 128 32 32
+2
+data/animations/dynamite_lit.anim
+data/animations/dynamite_explode.anim

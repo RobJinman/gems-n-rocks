@@ -1,0 +1,7 @@
+spin_lu
+2 25 0
+0 0 0 200 40 40
+0 0 0 0 32 32
+
+nFrames, frameRate, vanishes at end (non-zero = true)
+change in x, change in y, x offset in bitmap, y offset, height of image, width

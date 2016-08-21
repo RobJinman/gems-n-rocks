@@ -1,0 +1,18 @@
+lit_idle
+12 7.3333 0
+0 0 0 0 32 32
+0 0 32 0 32 32
+0 0 64 0 32 32
+0 0 96 0 32 32
+0 0 0 32 32 32
+0 0 32 32 32 32
+0 0 64 32 32 32
+0 0 96 32 32 32
+0 0 0 64 32 32
+0 0 32 64 32 32
+0 0 64 64 32 32
+0 0 96 64 32 32
+data/sounds/litFuse.wav
+
+nFrames, frameRate, vanishes at end (non-zero = true)
+change in x, change in y, x offset in bitmap, y offset, height of image, width

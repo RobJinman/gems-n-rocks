@@ -1,0 +1,8 @@
+roundRock data/images/round_rock1.bmp 256 64 32 32
+6
+data/animations/fall.anim
+data/animations/fall_l.anim
+data/animations/fall_r.anim
+data/animations/rock_roll_l.anim
+data/animations/rock_roll_r.anim
+data/animations/rock_burn.anim

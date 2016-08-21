@@ -1,0 +1,10 @@
+explode
+4 25 1
+0 0 0 128 32 32
+0 0 32 128 32 32
+0 0 64 128 32 32
+0 0 96 128 32 32
+data/sounds/bang.wav
+
+nFrames, frameRate, vanishes at end (non-zero = true)
+change in x, change in y, x offset in bitmap, y offset, height of image, width
